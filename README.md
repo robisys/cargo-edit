@@ -34,7 +34,8 @@ $ cd cargo-edit
 $ cargo build --release
 ```
 
-Once you have the executables, you can move them to a directory in your `$PATH`, e.g.
+Once you have the executables, you can move them to a directory in your `$PATH`, e.g.   
+ `$CARGO_HOME` 
 
 ```sh
 $ cp target/release/cargo-* ~/.bin/
